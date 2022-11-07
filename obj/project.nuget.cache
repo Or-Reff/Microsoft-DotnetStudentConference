@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "KCOQH/DRS/IfFAxKGJu3e8JfkjZmou0eVwvI00P/W0TGdu/YBd/pdmLBduyIwBevBmg28liODhVJ9niVLAW8dg==",
+  "success": false,
+  "projectFilePath": "D:\\Visual Studio 2019\\VSCode Projects\\Microsoft-DotnetStudentConference\\ResumeApp\\ResumeApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.Components.WebAssembly. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly",
+      "targetGraphs": [
+        "net6.0",
+        "net6.0/browser-wasm"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.Components.WebAssembly.DevServer. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly.DevServer",
+      "targetGraphs": [
+        "net6.0",
+        "net6.0/browser-wasm"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Runtime.Mono.browser-wasm. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
